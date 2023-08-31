@@ -1,0 +1,22 @@
+{
+  "name": "metronome-ui",
+  "version": "1.0.0",
+  "description": "Is a powerful npm package that offers a feature-rich metronome user interface built with modern JavaScript and integrated with the Tone.js library for accurate audio timing. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "syt4sh1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/metronome-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syt4sh1/metronome-ui/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/metronome-ui#readme"
+}
