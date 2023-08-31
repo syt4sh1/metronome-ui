@@ -4,7 +4,7 @@ To install the package, use npm:
 
 `npm install metronome-ui tone`
 ## Usage
-# Basic Usage
+### Basic Usage
 You can use the metronome UI in your HTML and JavaScript files as follows:
 
 Include the required HTML elements:
